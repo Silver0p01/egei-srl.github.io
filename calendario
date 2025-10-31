@@ -1,0 +1,31 @@
+<section class="py-12">
+  <div class="container mx-auto px-4">
+    <h1 class="text-3xl font-bold text-center text-blue-800 mb-8">Calendario Académico 2025</h1>
+    <div class="overflow-x-auto">
+      <table class="min-w-full bg-white border rounded-lg">
+        <thead class="bg-blue-700 text-white">
+          <tr>
+            <th class="py-3 px-4 text-left">Curso</th>
+            <th class="py-3 px-4 text-left">Tipo</th>
+            <th class="py-3 px-4 text-left">Inicio</th>
+            <th class="py-3 px-4 text-left">Fin</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="border-b hover:bg-gray-50">
+            <td class="py-3 px-4">Diseño Gráfico Básico</td>
+            <td>Taller</td>
+            <td>10/11/2025</td>
+            <td>10/12/2025</td>
+          </tr>
+          <tr class="border-b hover:bg-gray-50">
+            <td>Desarrollo Web Full Stack</td>
+            <td>Capacitación</td>
+            <td>01/12/2025</td>
+            <td>01/04/2026</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
